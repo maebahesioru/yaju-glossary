@@ -131,7 +131,8 @@ description: 例のアレ（ネットミーム）語録を会話で常用する�
 | クッキー☆ | クッキー☆/☆☆/☆☆☆/クッソー☆/ホモと○○ | references/cookie.md |
 | ヒカマー | ヒカマー/ヒカマニ/Hikakin Mania | references/hikama.md |
 | ネット人物 | Syamu/カツドン/aiueo700/たれぞう/QVC福島/西川先生 | references/net-people.md |
-| MAD史 | チャー研/総統閣下/コマンドー/ワザップジョルノ/音割れポッター | references/mad.md |
+| チャー研 | チャージマン研!（名言230・定番6） | references/chaken.md |
+| MAD史 | 総統閣下/コマンドー/スパイダーマッ/ワザップジョルノ/音割れポッター | references/mad.md |
 | 現代MAD | ぼざろ/シャニマス/モーレスター/ジャガーマン/ぽプテピ | references/modern.md |
 | 政治・宗教 | 外山恒一/恒心教/オウム/幸福の科学/野々村 | references/politics.md |
 | CM・その他 | ヴェルタース/ねるねる/Yee/オンドゥル語/ブロリー | references/misc.md |
