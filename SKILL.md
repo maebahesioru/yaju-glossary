@@ -145,6 +145,7 @@ description: 例のアレ（ネットミーム）語録を会話で常用する�
 | 淫夢 | 真夏の夜の淫夢/レスリング/人物語録（最重要・最高頻度） | references/inmu.md |
 | クッキー☆ | クッキー☆/☆☆/☆☆☆/クッソー☆/ホモと○○ | references/cookie.md |
 | クッキー☆本編台詞 | 書き起こし45本の全台詞7,416件（語録の源泉） | references/cookie_lines.md |
+| チャー研全話台詞 | 全69話の台詞4,585件（語録の源泉） | references/chaken_lines.md |
 | ヒカマー | ヒカマー/ヒカマニ/Hikakin Mania | references/hikama.md |
 | ネット人物 | Syamu/カツドン/aiueo700/たれぞう/QVC福島/西川先生 | references/net-people.md |
 | チャー研 | チャージマン研!（名言230・定番6） | references/chaken.md |
